@@ -702,3 +702,11 @@ By manipulating the arrangements of silicon quantum dots, configuring gates, and
 4. **Iterative Refinement:** Continuously refining the algorithms and circuit designs to optimize performance, potentially adjusting parameters like qubit connectivity or network topology to achieve desired outcomes.
 
 The goal is to replicate the computational abilities of a biological brain by harnessing the quantum properties of qubits and their connections, emulating neural functions for tasks like pattern recognition or optimization.
+
+<!-- trademarks:begin -->
+---
+AyeAI®, AyeCNSe® and AyeAM® are registered trademarks of Abhishek Choudhary in India, used and claimed worldwide since
+2019. The names of his products and projects are his trademarks; see [legal/TRADEMARKS.md](legal/TRADEMARKS.md). Code
+licences in this repository grant copyright permissions only and no right in any mark.
+© 1993–2026 Abhishek Choudhary. All rights reserved. AyeAI.
+<!-- trademarks:end -->
